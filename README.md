@@ -20,25 +20,29 @@ The repository contains the embedded firmware, data acquisition software and GNU
 ---
 ## Repository Structure
 
+
 ```text
 embedded/
     Arduino and Raspberry Pi Pico firmware
 
 serial_capture/
-    Python data acquisition software
+    Python scripts for serial data acquisition
 
-analysis_octave/
-    Signal processing and analysis scripts
+analysis/
+    waves/
+        MATLAB scripts for wave analysis, FFT, and polynomial fitting
+
+    acceleration/
+        MATLAB scripts for acceleration comparison and analysis
+
+    force/
+        MATLAB scripts for force comparison and visualisation
 
 data/
-    Example datasets
-
-figures/
-    Generated figures
+    Experimental datasets
 
 docs/
-    Additional documentation
-
+    Thesis and supporting project documentation
 ```
 ---
 ## Experimental System
