@@ -24,7 +24,7 @@ The repository contains the embedded firmware, data acquisition software and GNU
 embedded/
     Arduino and Raspberry Pi Pico firmware
 
-acquisition/
+serial_capture/
     Python data acquisition software
 
 analysis_octave/
