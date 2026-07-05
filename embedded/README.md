@@ -118,6 +118,7 @@ it:
 
 The accompanying `CapturePico.py` script receives the binary data, processes it, generates plots, and exports the processed results as a CSV file.
 
+> **Important:** If the firmware has been uploaded or executed using **Thonny**, close Thonny before running `04_CapturePico.py`. Only one application can access the Pico's serial port at a time, so leaving Thonny open will prevent the Python capture script from communicating with the device.
 ---
 
 ## Notes
