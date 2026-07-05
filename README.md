@@ -96,4 +96,8 @@ A `CITATION.cff` file is also included to provide machine-readable citation meta
 
 ## Licence
 
-This repository is released under the MIT Licence.
+Except where otherwise stated, all source code, firmware, software, scripts, and other software components contained in this repository are licensed under the MIT License. The full terms of the MIT License are available in the repository's root LICENSE file.
+
+All documentation and non-software materials contained within the docs/ directory, including but not limited to the thesis manuscript, figures, diagrams, reports, and supporting documentation, are licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License, unless explicitly stated otherwise. The applicable license terms are provided in docs/LICENSE.
+
+For the avoidance of doubt, the MIT License does not apply to the contents of the docs/ directory, and the CC BY-NC 4.0 License does not apply to the software components of this repository.
