@@ -43,7 +43,7 @@ Raspberry Pi Pico firmware for recording acceleration data from an ADXL345 accel
 
 ### Arduino + HX711
 
-| HX711 | Arduino |
+| HX711 | Arduino Uno |
 |--------|----------|
 | VCC | 5 V |
 | GND | GND |
