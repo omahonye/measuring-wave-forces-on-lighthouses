@@ -24,7 +24,7 @@ Arduino firmware for reading load measurements from an HX711 load cell amplifier
 
 ---
 
-### `02_EmbedPico.ino`
+### `02_EmbedPico.py`
 
 Raspberry Pi Pico firmware for recording acceleration data from an ADXL345 accelerometer.
 
