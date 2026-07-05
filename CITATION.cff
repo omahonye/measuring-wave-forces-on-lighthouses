@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+title: >-
+  Measuring Wave Forces on Lighthouses: A Scale Model
+  Investigation
+message: 'If you use this software, please cite this repository.'
+type: software
+authors:
+  - given-names: Eoghan
+    family-names: O'Mahony
+    orcid: 'https://orcid.org/0009-0002-7151-3500'
+repository-code: >-
+  https://github.com/omahonye/measuring-wave-forces-on-lighthouses
+abstract: >-
+  Data acquisition and GNU Octave analysis code supporting
+  the M.E. thesis "Measuring Wave Forces on Lighthouses: A
+  Scale Model Investigation" (University of Galway, 2026).
+keywords:
+  - Civil Engineering
+  - Wave Loading
+  - Lighthouse
+  - Structural Health Monitoring
+  - Arduino
+  - Raspberry Pi Pico
+  - GNU Octave
+  - Python
+
+license: MIT
+version: '1.0'
+date-released: '2026-05-25'
+
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: O'Mahony
+      given-names: Eoghan N
+      orcid: "https://orcid.org/0009-0002-7151-3500"
+
+  title: "Measuring Wave Forces on Lighthouses: A Scale Model Investigation"
+
+  institution: "University of Galway"
+
+  year: 2026
