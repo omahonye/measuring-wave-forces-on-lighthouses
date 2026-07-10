@@ -8,6 +8,7 @@ authors:
   - given-names: Eoghan
     family-names: O'Mahony
     orcid: 'https://orcid.org/0009-0002-7151-3500'
+doi: 10.5281/zenodo.21224731
 repository-code: >-
   https://github.com/omahonye/measuring-wave-forces-on-lighthouses
 abstract: >-
@@ -30,13 +31,17 @@ date-released: '2026-05-25'
 
 preferred-citation:
   type: thesis
+  thesis-type: "Master of Engineering thesis"
+
   authors:
     - family-names: O'Mahony
       given-names: Eoghan N
-      orcid: "https://orcid.org/0009-0002-7151-3500"
+      orcid: https://orcid.org/0009-0002-7151-3500
 
   title: "Measuring Wave Forces on Lighthouses: A Scale Model Investigation"
 
-  institution: "University of Galway"
+  institution: University of Galway
 
   year: 2026
+
+  doi: 10.5281/zenodo.21224731
