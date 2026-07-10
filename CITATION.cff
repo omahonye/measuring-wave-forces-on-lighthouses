@@ -8,7 +8,7 @@ authors:
   - given-names: Eoghan
     family-names: O'Mahony
     orcid: 'https://orcid.org/0009-0002-7151-3500'
-doi: 10.5281/zenodo.21224731
+doi: 10.5281/zenodo.21224732
 repository-code: >-
   https://github.com/omahonye/measuring-wave-forces-on-lighthouses
 abstract: >-
@@ -44,4 +44,4 @@ preferred-citation:
 
   year: 2026
 
-  doi: 10.5281/zenodo.21224731
+  doi: 10.5281/zenodo.21224732
